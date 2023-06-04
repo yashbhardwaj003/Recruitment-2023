@@ -1,4 +1,4 @@
-# Task - 2: Secret of Ravan
+# Secret of Ravan
 
 ### Challenge Description
 
