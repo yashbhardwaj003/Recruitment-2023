@@ -1,4 +1,4 @@
-# Task - 03: `mov stone, ocean`
+# `mov stone, ocean`
 
 ### Challenge Description
 
