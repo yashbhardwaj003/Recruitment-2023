@@ -61,9 +61,9 @@ S. No. | Task Name | Difficulty | Go to folder
 --- | --- |------------| --- |
 Task - 01 | `mov stone, ocean` | Easy       | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/93c253762bbd56cae371843115036a990ae87bc1/Cyber%20Security%20Corner/mov%20stone%2C%20ocean-CCube-Easy)
 Task - 02 | Ashok Vatika | Easy       | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/93c253762bbd56cae371843115036a990ae87bc1/Cyber%20Security%20Corner/Ashok%20Vatika-CCube-Easy)
-Task - 03 | Secret of Ravan | Hard     | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/93c253762bbd56cae371843115036a990ae87bc1/Cyber%20Security%20Corner/Secret%20of%20Ravan-CCube-Medium)
-Task - 04 | A Letter to Sita | Medium     | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/93c253762bbd56cae371843115036a990ae87bc1/Cyber%20Security%20Corner/A%20Letter%20To%20Sita-Ccube-Medium)
-Task - 05 | How Many? | Medium       | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/93c253762bbd56cae371843115036a990ae87bc1/Cyber%20Security%20Corner/How%20many-CCube-Hard)
+Task - 03 | A Letter to Sita | Medium     | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/93c253762bbd56cae371843115036a990ae87bc1/Cyber%20Security%20Corner/A%20Letter%20To%20Sita-Ccube-Medium)
+Task - 04 | How Many? | Medium       | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/b9549152cb416e5655fac570f9600ec00f775520/Cyber%20Security%20Corner/How%20many-CCube-Medium)
+Task - 05 | Secret of Ravan | Hard     | [Click Here](https://github.com/CCube-Club/Recruitment-2023/tree/b9549152cb416e5655fac570f9600ec00f775520/Cyber%20Security%20Corner/Secret%20of%20Ravan-CCube-Hard)
 
 ## [Web Corner](https://github.com/CCube-Club/Recruitment-2023/tree/ba3737490fb82eb78f1427f9d3cb1a64312d9472/Cyber%20Security%20Corner)
 
